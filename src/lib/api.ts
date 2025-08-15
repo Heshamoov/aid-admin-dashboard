@@ -4,7 +4,9 @@ import { writable } from 'svelte/store';
 import type { Admin, Record, User } from 'pocketbase';
 
 // Point this to the URL of your running PocketBase instance
-export const pb = new PocketBase('http://127.0.0.1:8090' );
+// export const pb = new PocketBase('http://127.0.0.1:8090' );
+export const pb = new PocketBase('aid-pocketbase-production.up.railway.app' );
+
 
 // Create a writable Svelte store to hold the auth state
 // We type it to accept a User, Admin, or null model
