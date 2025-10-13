@@ -1,0 +1,19 @@
+{
+  "welcome-message": "مرحباً، أهلاً بك في تطبيقنا!",
+  "title": "منصة الإغاثة",
+  "dashboard": "لوحة التحكم",
+  "financial_overview": "نظرة عامة مالية",
+  "total_income": "إجمالي الدخل",
+  "total_expenses": "إجمالي المصروفات",
+  "current_balance": "الرصيد الحالي",
+  "manage_finances": "إدارة الشؤون المالية",
+  "operations_overview": "نظرة عامة على العمليات",
+  "total_forms_created": "إجمالي النماذج المنشأة",
+  "total_submissions": "إجمالي الطلبات المقدمة",
+  "form_builder": "منشئ النماذج",
+  "manage_forms": "إدارة النماذج",
+  "view_data": "عرض البيانات",
+  "view_submissions": "عرض الطلبات",
+  "welcome_message": "مرحبًا، أهلاً بك في تطبيقنا!",
+  "logout": "تسجيل الخروج"
+}

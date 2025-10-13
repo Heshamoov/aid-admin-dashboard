@@ -1,0 +1,21 @@
+{
+  "welcome-message": "Hello, welcome to our app!",
+  "title": "AID PLATFORM",
+  "dashboard": "Dashboard",
+  "financial_overview": "Financial Overview",
+  "total_income": "Total Income",
+  "total_expenses": "Total Expenses",
+  "current_balance": "Current Balance",
+  "manage_finances": "Manage Finances",
+  "operations_overview": "Operations Overview",
+  "total_forms_created": "Total Forms Created",
+  "total_submissions": "Total Submissions",
+  "form_builder": "Form Builder",
+  "manage_forms": "Manage Forms",
+  "view_data": "View Data",
+  "view_submissions": "View Submissions",
+  "welcome_message": "Hello, welcome to our app!",
+  "logout": "Logout",
+  "english": "English",
+  "arabic": "Arabic"
+}
