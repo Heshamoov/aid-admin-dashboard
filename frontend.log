@@ -1,0 +1,221 @@
+nohup: ignoring input
+
+> frontend@0.0.1 dev /home/ubuntu/aid-app/frontend
+> vite dev
+
+
+  VITE v7.1.2  ready in 902 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+9:00:34 AM [vite-plugin-svelte] src/routes/dashboard/finances/+page.svelte:452:6 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+9:00:34 AM [vite-plugin-svelte] src/routes/dashboard/finances/+page.svelte:461:6 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+9:00:34 AM [vite-plugin-svelte] src/routes/dashboard/finances/+page.svelte:469:6 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+9:00:34 AM [vite-plugin-svelte] src/routes/dashboard/finances/+page.svelte:478:6 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+9:00:34 AM [vite-plugin-svelte] src/routes/dashboard/finances/+page.svelte:489:6 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+9:00:34 AM [vite-plugin-svelte] src/routes/dashboard/finances/+page.svelte:502:6 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+9:00:34 AM [vite-plugin-svelte] src/routes/dashboard/finances/+page.svelte:514:6 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+9:00:34 AM [vite-plugin-svelte] src/routes/dashboard/finances/+page.svelte:522:6 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+9:00:34 AM [vite-plugin-svelte] src/routes/dashboard/finances/+page.svelte:530:6 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+9:00:34 AM [vite-plugin-svelte] src/routes/dashboard/finances/+page.svelte:538:6 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+9:00:34 AM [vite-plugin-svelte] src/routes/dashboard/finances/+page.svelte:569:6 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+9:00:34 AM [vite-plugin-svelte] src/routes/dashboard/finances/+page.svelte:590:6 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+9:00:34 AM [vite-plugin-svelte] src/routes/dashboard/finances/+page.svelte:598:6 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+9:00:34 AM [vite-plugin-svelte] src/routes/dashboard/finances/+page.svelte:609:6 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+9:00:34 AM [vite-plugin-svelte] src/routes/dashboard/finances/+page.svelte:622:6 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+9:00:34 AM [vite-plugin-svelte] src/routes/dashboard/finances/+page.svelte:630:6 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+9:00:34 AM [vite-plugin-svelte] src/routes/dashboard/finances/+page.svelte:638:6 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+9:00:34 AM [vite-plugin-svelte] src/routes/dashboard/finances/+page.svelte:646:6 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+Version check error: Error: Command failed: git rev-parse HEAD
+fatal: not a git repository (or any of the parent directories): .git
+
+    at genericNodeError (node:internal/errors:983:15)
+    at wrappedFn (node:internal/errors:537:14)
+    at ChildProcess.exithandler (node:child_process:414:12)
+    at ChildProcess.emit (node:events:524:28)
+    at maybeClose (node:internal/child_process:1101:16)
+    at Socket.<anonymous> (node:internal/child_process:456:11)
+    at Socket.emit (node:events:524:28)
+    at Pipe.<anonymous> (node:net:351:12)
+    at Pipe.callbackTrampoline (node:internal/async_hooks:130:17) {
+  code: 128,
+  killed: false,
+  signal: null,
+  cmd: 'git rev-parse HEAD',
+  stdout: '',
+  stderr: 'fatal: not a git repository (or any of the parent directories): .git\n'
+}
+Version check error: Error: Command failed: git rev-parse HEAD
+fatal: not a git repository (or any of the parent directories): .git
+
+    at genericNodeError (node:internal/errors:983:15)
+    at wrappedFn (node:internal/errors:537:14)
+    at ChildProcess.exithandler (node:child_process:414:12)
+    at ChildProcess.emit (node:events:524:28)
+    at maybeClose (node:internal/child_process:1101:16)
+    at Socket.<anonymous> (node:internal/child_process:456:11)
+    at Socket.emit (node:events:524:28)
+    at Pipe.<anonymous> (node:net:351:12)
+    at Pipe.callbackTrampoline (node:internal/async_hooks:130:17) {
+  code: 128,
+  killed: false,
+  signal: null,
+  cmd: 'git rev-parse HEAD',
+  stdout: '',
+  stderr: 'fatal: not a git repository (or any of the parent directories): .git\n'
+}
+Version check error: Error: Command failed: git rev-parse HEAD
+fatal: not a git repository (or any of the parent directories): .git
+
+    at genericNodeError (node:internal/errors:983:15)
+    at wrappedFn (node:internal/errors:537:14)
+    at ChildProcess.exithandler (node:child_process:414:12)
+    at ChildProcess.emit (node:events:524:28)
+    at maybeClose (node:internal/child_process:1101:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:304:5)
+    at Process.callbackTrampoline (node:internal/async_hooks:130:17) {
+  code: 128,
+  killed: false,
+  signal: null,
+  cmd: 'git rev-parse HEAD',
+  stdout: '',
+  stderr: 'fatal: not a git repository (or any of the parent directories): .git\n'
+}
+9:00:46 AM [vite-plugin-svelte] /home/ubuntu/aid-app/frontend/src/routes/dashboard/+page.svelte:187:3 This element is implicitly closed by the following `</main>`, which can cause an unexpected DOM structure. Add an explicit `</div>` to avoid surprises.
+https://svelte.dev/e/element_implicitly_closed
+9:00:46 AM [vite-plugin-svelte] /home/ubuntu/aid-app/frontend/src/routes/dashboard/+page.svelte:186:2 This element is implicitly closed by the following `</main>`, which can cause an unexpected DOM structure. Add an explicit `</div>` to avoid surprises.
+https://svelte.dev/e/element_implicitly_closed
+9:02:25 AM [vite-plugin-svelte] src/routes/dashboard/users/+page.svelte:320:3 Visible, non-interactive elements with a click event must be accompanied by a keyboard event handler. Consider whether an interactive element such as `<button type="button">` or `<a>` might be more appropriate
+https://svelte.dev/e/a11y_click_events_have_key_events
+9:02:25 AM [vite-plugin-svelte] src/routes/dashboard/users/+page.svelte:320:3 `<div>` with a click handler must have an ARIA role
+https://svelte.dev/e/a11y_no_static_element_interactions
+Version check error: Error: Command failed: git rev-parse HEAD
+fatal: not a git repository (or any of the parent directories): .git
+
+    at genericNodeError (node:internal/errors:983:15)
+    at wrappedFn (node:internal/errors:537:14)
+    at ChildProcess.exithandler (node:child_process:414:12)
+    at ChildProcess.emit (node:events:524:28)
+    at maybeClose (node:internal/child_process:1101:16)
+    at Socket.<anonymous> (node:internal/child_process:456:11)
+    at Socket.emit (node:events:524:28)
+    at Pipe.<anonymous> (node:net:351:12)
+    at Pipe.callbackTrampoline (node:internal/async_hooks:130:17) {
+  code: 128,
+  killed: false,
+  signal: null,
+  cmd: 'git rev-parse HEAD',
+  stdout: '',
+  stderr: 'fatal: not a git repository (or any of the parent directories): .git\n'
+}
+Version check error: Error: Command failed: git rev-parse HEAD
+fatal: not a git repository (or any of the parent directories): .git
+
+    at genericNodeError (node:internal/errors:983:15)
+    at wrappedFn (node:internal/errors:537:14)
+    at ChildProcess.exithandler (node:child_process:414:12)
+    at ChildProcess.emit (node:events:524:28)
+    at maybeClose (node:internal/child_process:1101:16)
+    at Socket.<anonymous> (node:internal/child_process:456:11)
+    at Socket.emit (node:events:524:28)
+    at Pipe.<anonymous> (node:net:351:12)
+    at Pipe.callbackTrampoline (node:internal/async_hooks:130:17) {
+  code: 128,
+  killed: false,
+  signal: null,
+  cmd: 'git rev-parse HEAD',
+  stdout: '',
+  stderr: 'fatal: not a git repository (or any of the parent directories): .git\n'
+}
+Version check error: Error: Command failed: git rev-parse HEAD
+fatal: not a git repository (or any of the parent directories): .git
+
+    at genericNodeError (node:internal/errors:983:15)
+    at wrappedFn (node:internal/errors:537:14)
+    at ChildProcess.exithandler (node:child_process:414:12)
+    at ChildProcess.emit (node:events:524:28)
+    at maybeClose (node:internal/child_process:1101:16)
+    at Socket.<anonymous> (node:internal/child_process:456:11)
+    at Socket.emit (node:events:524:28)
+    at Pipe.<anonymous> (node:net:351:12)
+    at Pipe.callbackTrampoline (node:internal/async_hooks:130:17) {
+  code: 128,
+  killed: false,
+  signal: null,
+  cmd: 'git rev-parse HEAD',
+  stdout: '',
+  stderr: 'fatal: not a git repository (or any of the parent directories): .git\n'
+}
+Version check error: Error: Command failed: git rev-parse HEAD
+fatal: not a git repository (or any of the parent directories): .git
+
+    at genericNodeError (node:internal/errors:983:15)
+    at wrappedFn (node:internal/errors:537:14)
+    at ChildProcess.exithandler (node:child_process:414:12)
+    at ChildProcess.emit (node:events:524:28)
+    at maybeClose (node:internal/child_process:1101:16)
+    at Socket.<anonymous> (node:internal/child_process:456:11)
+    at Socket.emit (node:events:524:28)
+    at Pipe.<anonymous> (node:net:351:12)
+    at Pipe.callbackTrampoline (node:internal/async_hooks:130:17) {
+  code: 128,
+  killed: false,
+  signal: null,
+  cmd: 'git rev-parse HEAD',
+  stdout: '',
+  stderr: 'fatal: not a git repository (or any of the parent directories): .git\n'
+}
+Version check error: Error: Command failed: git rev-parse HEAD
+fatal: not a git repository (or any of the parent directories): .git
+
+    at genericNodeError (node:internal/errors:983:15)
+    at wrappedFn (node:internal/errors:537:14)
+    at ChildProcess.exithandler (node:child_process:414:12)
+    at ChildProcess.emit (node:events:524:28)
+    at maybeClose (node:internal/child_process:1101:16)
+    at Socket.<anonymous> (node:internal/child_process:456:11)
+    at Socket.emit (node:events:524:28)
+    at Pipe.<anonymous> (node:net:351:12)
+    at Pipe.callbackTrampoline (node:internal/async_hooks:130:17) {
+  code: 128,
+  killed: false,
+  signal: null,
+  cmd: 'git rev-parse HEAD',
+  stdout: '',
+  stderr: 'fatal: not a git repository (or any of the parent directories): .git\n'
+}
+Version check error: Error: Command failed: git rev-parse HEAD
+fatal: not a git repository (or any of the parent directories): .git
+
+    at genericNodeError (node:internal/errors:983:15)
+    at wrappedFn (node:internal/errors:537:14)
+    at ChildProcess.exithandler (node:child_process:414:12)
+    at ChildProcess.emit (node:events:524:28)
+    at maybeClose (node:internal/child_process:1101:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:304:5)
+    at Process.callbackTrampoline (node:internal/async_hooks:130:17) {
+  code: 128,
+  killed: false,
+  signal: null,
+  cmd: 'git rev-parse HEAD',
+  stdout: '',
+  stderr: 'fatal: not a git repository (or any of the parent directories): .git\n'
+}
